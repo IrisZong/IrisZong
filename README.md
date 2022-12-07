@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IrisZong
+- 👋 Hi, I’m @iriszong
 - 👀 I’m interested in CS and biology
 - 🌱 I’m currently learning Java
 - 📫 How to reach me : ruitzong@gmail.com
